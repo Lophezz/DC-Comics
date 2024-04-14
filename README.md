@@ -18,7 +18,7 @@ Compatibilidade e Consistência: Utilizar elementos semânticos ajuda a garantir
 
 **Diferença de Tags, id e Class**
 
-Tags HTML: As tags HTML são os elementos básicos de marcação usados para estruturar e definir o conteúdo de uma página da web. Exemplos de tags HTML incluem <div>, <p>, <h1>, <a>, entre outros. No CSS, as tags HTML são usadas como seletores para aplicar estilos a todos os elementos com uma determinada tag. Por exemplo, se você quiser estilizar todos os parágrafos em sua página, você usaria o seletor p.
+Tags HTML: As tags HTML são os elementos básicos de marcação usados para estruturar e definir o conteúdo de uma página da web. Exemplos de tags HTML incluem div, p, h1, a, entre outros. No CSS, as tags HTML são usadas como seletores para aplicar estilos a todos os elementos com uma determinada tag. Por exemplo, se você quiser estilizar todos os parágrafos em sua página, você usaria o seletor p.
 
 ID: O atributo "id" é usado para identificar exclusivamente um elemento em uma página HTML. Cada id deve ser único dentro do documento HTML. No CSS, os IDs são precedidos pelo caractere "#" e são usados como seletores para aplicar estilos a um elemento específico. Por exemplo, se você tiver um elemento com o id "header", você poderia estilizá-lo usando o seletor #header.
 
